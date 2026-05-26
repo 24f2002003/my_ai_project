@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Design wireframes",
+    "description": "Create initial mockups for the new dashboard",
+    "column": "done",
+    "priority": "high",
+    "created": "2026-05-20"
+  },
+  {
+    "id": 2,
+    "title": "Set up database schema",
+    "description": "Define tables and relationships for the backend",
+    "column": "done",
+    "priority": "critical",
+    "created": "2026-05-21"
+  },
+  {
+    "id": 3,
+    "title": "Build authentication system",
+    "description": "Implement login, logout, and JWT tokens",
+    "column": "inprogress",
+    "priority": "critical",
+    "created": "2026-05-22"
+  },
+  {
+    "id": 4,
+    "title": "Write API endpoints",
+    "description": "REST API for tasks, users, and projects",
+    "column": "todo",
+    "priority": "high",
+    "created": "2026-05-23"
+  },
+  {
+    "id": 5,
+    "title": "Frontend components",
+    "description": "Reusable React components for the UI",
+    "column": "done",
+    "priority": "medium",
+    "created": "2026-05-24"
+  },
+  {
+    "id": 6,
+    "title": "Write unit tests",
+    "description": "Cover core business logic with tests",
+    "column": "done",
+    "priority": "medium",
+    "created": "2026-05-25"
+  },
+  {
+    "id": 7,
+    "title": "Deploy to staging",
+    "description": "Set up CI/CD pipeline and staging environment",
+    "column": "todo",
+    "priority": "low",
+    "created": "2026-05-25"
+  },
+  {
+    "id": 8,
+    "title": "Performance audit",
+    "description": "Profile and optimize slow queries",
+    "column": "todo",
+    "priority": "low",
+    "created": "2026-05-26"
+  }
+]
